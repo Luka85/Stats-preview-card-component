@@ -24,7 +24,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://luka85.github.io/Stats-preview-card-component/]
 
 ## My process
 
